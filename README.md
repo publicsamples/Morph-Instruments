@@ -18,7 +18,7 @@ Move the Audio and NKI folders to where ever you like
 Open Kontakt
 From the file menu select "Batch resave". Proceed with yes
 Open the folder with the .nki files
-Once the batch resave process has completed open a sample using the file browse*
+Once the batch resave process has completed open a sample using the file browser
 
 
 # Support this project
