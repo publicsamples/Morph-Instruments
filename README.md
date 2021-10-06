@@ -9,9 +9,7 @@ Under development.
 -   **Approx Size:** 2.5GB
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/morph.html)
 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/1o856dvop1f4xn8/AAB9O6SAx8vOgttM94F5Kc_ia?dl=0)
+**[Download Audio](https://github.com/publicsamples/Morph-Instruments/releases/tag/1.0)**
 
 # Loading
 
