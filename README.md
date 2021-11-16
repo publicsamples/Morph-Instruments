@@ -11,21 +11,13 @@ Under development.
 
 **[Download Audio](https://github.com/publicsamples/Morph-Instruments/releases/tag/1.0)**
 
-# Loading
+## **Get help**
 
-**Kontakt**
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
 
-Move the Audio and NKI folders to where ever you like
-Open Kontakt
-From the file menu select "Batch resave". Proceed with yes
-Open the folder with the .nki files
-Once the batch resave process has completed open a sample using the file browser
-
-
-# Support this project
-
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+## **Support this project**
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![dx15](https://www.modularsamples.com/img/msdx.png)
+](https://www.modularsamples.com/dx-15-for-kontakt/)
+
